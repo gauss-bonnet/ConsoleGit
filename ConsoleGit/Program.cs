@@ -10,6 +10,8 @@ namespace ConsoleGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
+            Console.ReadLine();
         }
     }
 }
